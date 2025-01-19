@@ -106,24 +106,3 @@ The global birth rate is decreasing at a rate of approximately **0.05% per year*
 
 2. **Dynamic Reporting**:
    - Enable real-time updates using live data sources.
-
----
-
-## Contributing
-
-Feel free to contribute by:
-- Suggesting improvements to dashboard design.
-- Adding new datasets or expanding the scope of analysis.
-- Reporting issues or bugs.
-
----
-
-## Contact
-
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-
----
-
-Copy this file into a `README.md` in your GitHub repository to document your Power BI project effectively!
